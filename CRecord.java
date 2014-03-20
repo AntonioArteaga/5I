@@ -8,7 +8,9 @@ private Double estatura;
 /** Implementar constructores **/
 
 /** Implementar setters **/
-
+public void setClave (String c) {
+	clave = c;
+}
 /** Implementar getters **/
 
 }
